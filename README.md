@@ -4,7 +4,7 @@
 Our objective is to develop a mobile and smartwatch application aimed at helping guardians monitor their children in a comfortable and reliable manner. The app allows users to efficiently connect with their children by storing real-time location data and essential profile information, ensuring timely and appropriate support when needed.
 
 # Technology:
-We will build the application using Swift programming language in Xcode, Xcode a framework for developing mobile apps in iOS operation system.
+We built the application using the Swift programming language in Xcode, a powerful framework for developing mobile apps on the iOS operating system.
 
 # Launching Instructions:
 
