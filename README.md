@@ -7,16 +7,12 @@ Our objective is to develop a mobile and smartwatch application aimed at helping
 We will build the application using Swift programming language in Xcode, Xcode a framework for developing mobile apps in iOS operation system.
 
 # Launching Instructions:
-Open Atsight repository on GitHub
 
-Click on the code button
+**1.** Open the **Atsight** repository on GitHub.  
+**2.** Click the **Code** button, then select **Download ZIP**.  
+**3.** Extract the ZIP file to your preferred location.  
+**4.** Open the extracted folder and double-click on the `Atsight.xcodeproj` file.  
+**5.** If prompted, click **"Trust and Open"** to proceed.  
+**6.** Once Xcode opens, click the **Run** button to launch the Atsight application.  
 
-Download .zip file
-
-Unzip the file
-
-Open Xcode application
-
-Click on File > Open > Choose the location of the saved unzipped file > click on it > on Ok
-
-Run atsight application
+**Enjoy using Atsight!** 😊
