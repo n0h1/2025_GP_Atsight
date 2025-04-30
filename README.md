@@ -8,11 +8,16 @@ We will build the application using Swift programming language in Xcode, Xcode a
 
 # Launching Instructions:
 
-**1.** Open the **Atsight** repository on GitHub.  
+**1.** Open the **2025_GP_Atsight** repository on GitHub.  
 **2.** Click the **Code** button, then select **Download ZIP**.  
 **3.** Extract the ZIP file to your preferred location.  
-**4.** Open the extracted folder and double-click on the `Atsight.xcodeproj` file.  
-**5.** If prompted, click **"Trust and Open"** to proceed.  
-**6.** Once Xcode opens, click the **Run** button to launch the Atsight application.  
-
+**4.** Inside the folder, you will find:
+   - `Atsight.xcodeproj` (iOS App)
+   - `AtSightWatchh.xcodeproj` (Apple Watch Interface)  
+**5.** Double-click on the desired project file to open it in Xcode:  
+   - `Atsight.xcodeproj` for the iOS app  
+   - `AtSightWatchh.xcodeproj` for the Apple Watch interface  
+**6.** If prompted, click **"Trust and Open"** to proceed.  
+**7.** Once Xcode opens, click the **Run** button to launch the application. The simulator will be selected automatically.
+     
 **Enjoy using Atsight!** 😊
