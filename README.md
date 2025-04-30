@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2137ad51-67d6-4ea3-8550-3474e08deac2" alt="logo" width="250"/>
+</p>
+
+
 # AtSight
 # Introduction:
 
@@ -18,5 +23,6 @@ We built the application using the Swift programming language in Xcode, a powerf
 **5.** Double-click on either the `Atsight.xcodeproj` (for iOS) or `AtSightWatchh.xcodeproj` (for the Watch app) file.   
 **6.** If prompted, click **"Trust and Open"** to proceed.  
 **7.** Once Xcode opens, click the **Run** button to launch the application. The simulator will be selected automatically.
-     
+
+# 
 **Enjoy using Atsight!** 😊
