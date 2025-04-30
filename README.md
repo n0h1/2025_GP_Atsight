@@ -13,10 +13,9 @@ We will build the application using Swift programming language in Xcode, Xcode a
 **3.** Extract the ZIP file to your preferred location.  
 **4.** Inside the folder, you will find:
    - `Atsight.xcodeproj` (iOS App)
-   - `AtSightWatchh.xcodeproj` (Apple Watch Interface)  
-**5.** Double-click on the desired project file to open it in Xcode:  
-   - `Atsight.xcodeproj` for the iOS app  
-   - `AtSightWatchh.xcodeproj` for the Apple Watch interface  
+   - `AtSightWatchh.xcodeproj` (Apple Watch Interface)
+
+**5.** Double-click on either the `Atsight.xcodeproj` (for iOS) or `AtSightWatchh.xcodeproj` (for the Watch app) file.   
 **6.** If prompted, click **"Trust and Open"** to proceed.  
 **7.** Once Xcode opens, click the **Run** button to launch the application. The simulator will be selected automatically.
      
