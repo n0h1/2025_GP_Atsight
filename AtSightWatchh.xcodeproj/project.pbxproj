@@ -1,0 +1,661 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FEC081382DAEE5CB00D92163 /* AtSightWatchh Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = FEC081372DAEE5CB00D92163 /* AtSightWatchh Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FEC081392DAEE5CB00D92163 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FEC0812B2DAEE5CB00D92163 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FEC081362DAEE5CB00D92163;
+			remoteInfo = "AtSightWatchh Watch App";
+		};
+		FEC081472DAEE5CD00D92163 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FEC0812B2DAEE5CB00D92163 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FEC081362DAEE5CB00D92163;
+			remoteInfo = "AtSightWatchh Watch App";
+		};
+		FEC081512DAEE5CD00D92163 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FEC0812B2DAEE5CB00D92163 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FEC081362DAEE5CB00D92163;
+			remoteInfo = "AtSightWatchh Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		FEC0815D2DAEE5CD00D92163 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				FEC081382DAEE5CB00D92163 /* AtSightWatchh Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		FEC081312DAEE5CB00D92163 /* AtSightWatchh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AtSightWatchh.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEC081372DAEE5CB00D92163 /* AtSightWatchh Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AtSightWatchh Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEC081462DAEE5CD00D92163 /* AtSightWatchh Watch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AtSightWatchh Watch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEC081502DAEE5CD00D92163 /* AtSightWatchh Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AtSightWatchh Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		FEC0813B2DAEE5CB00D92163 /* AtSightWatchh Watch App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "AtSightWatchh Watch App";
+			sourceTree = "<group>";
+		};
+		FEC081492DAEE5CD00D92163 /* AtSightWatchh Watch AppTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "AtSightWatchh Watch AppTests";
+			sourceTree = "<group>";
+		};
+		FEC081532DAEE5CD00D92163 /* AtSightWatchh Watch AppUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "AtSightWatchh Watch AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FEC081342DAEE5CB00D92163 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEC081432DAEE5CD00D92163 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEC0814D2DAEE5CD00D92163 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FEC0812A2DAEE5CB00D92163 = {
+			isa = PBXGroup;
+			children = (
+				FEC0813B2DAEE5CB00D92163 /* AtSightWatchh Watch App */,
+				FEC081492DAEE5CD00D92163 /* AtSightWatchh Watch AppTests */,
+				FEC081532DAEE5CD00D92163 /* AtSightWatchh Watch AppUITests */,
+				FEC081322DAEE5CB00D92163 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FEC081322DAEE5CB00D92163 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FEC081312DAEE5CB00D92163 /* AtSightWatchh.app */,
+				FEC081372DAEE5CB00D92163 /* AtSightWatchh Watch App.app */,
+				FEC081462DAEE5CD00D92163 /* AtSightWatchh Watch AppTests.xctest */,
+				FEC081502DAEE5CD00D92163 /* AtSightWatchh Watch AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FEC081302DAEE5CB00D92163 /* AtSightWatchh */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FEC0815E2DAEE5CD00D92163 /* Build configuration list for PBXNativeTarget "AtSightWatchh" */;
+			buildPhases = (
+				FEC0812F2DAEE5CB00D92163 /* Resources */,
+				FEC0815D2DAEE5CD00D92163 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FEC0813A2DAEE5CB00D92163 /* PBXTargetDependency */,
+			);
+			name = AtSightWatchh;
+			packageProductDependencies = (
+			);
+			productName = AtSightWatchh;
+			productReference = FEC081312DAEE5CB00D92163 /* AtSightWatchh.app */;
+			productType = "com.apple.product-type.application.watchapp2-container";
+		};
+		FEC081362DAEE5CB00D92163 /* AtSightWatchh Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FEC0815A2DAEE5CD00D92163 /* Build configuration list for PBXNativeTarget "AtSightWatchh Watch App" */;
+			buildPhases = (
+				FEC081332DAEE5CB00D92163 /* Sources */,
+				FEC081342DAEE5CB00D92163 /* Frameworks */,
+				FEC081352DAEE5CB00D92163 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				FEC0813B2DAEE5CB00D92163 /* AtSightWatchh Watch App */,
+			);
+			name = "AtSightWatchh Watch App";
+			packageProductDependencies = (
+			);
+			productName = "AtSightWatchh Watch App";
+			productReference = FEC081372DAEE5CB00D92163 /* AtSightWatchh Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FEC081452DAEE5CD00D92163 /* AtSightWatchh Watch AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FEC081612DAEE5CD00D92163 /* Build configuration list for PBXNativeTarget "AtSightWatchh Watch AppTests" */;
+			buildPhases = (
+				FEC081422DAEE5CD00D92163 /* Sources */,
+				FEC081432DAEE5CD00D92163 /* Frameworks */,
+				FEC081442DAEE5CD00D92163 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FEC081482DAEE5CD00D92163 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FEC081492DAEE5CD00D92163 /* AtSightWatchh Watch AppTests */,
+			);
+			name = "AtSightWatchh Watch AppTests";
+			packageProductDependencies = (
+			);
+			productName = "AtSightWatchh Watch AppTests";
+			productReference = FEC081462DAEE5CD00D92163 /* AtSightWatchh Watch AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FEC0814F2DAEE5CD00D92163 /* AtSightWatchh Watch AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FEC081642DAEE5CD00D92163 /* Build configuration list for PBXNativeTarget "AtSightWatchh Watch AppUITests" */;
+			buildPhases = (
+				FEC0814C2DAEE5CD00D92163 /* Sources */,
+				FEC0814D2DAEE5CD00D92163 /* Frameworks */,
+				FEC0814E2DAEE5CD00D92163 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FEC081522DAEE5CD00D92163 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FEC081532DAEE5CD00D92163 /* AtSightWatchh Watch AppUITests */,
+			);
+			name = "AtSightWatchh Watch AppUITests";
+			packageProductDependencies = (
+			);
+			productName = "AtSightWatchh Watch AppUITests";
+			productReference = FEC081502DAEE5CD00D92163 /* AtSightWatchh Watch AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FEC0812B2DAEE5CB00D92163 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					FEC081302DAEE5CB00D92163 = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					FEC081362DAEE5CB00D92163 = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					FEC081452DAEE5CD00D92163 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = FEC081362DAEE5CB00D92163;
+					};
+					FEC0814F2DAEE5CD00D92163 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = FEC081362DAEE5CB00D92163;
+					};
+				};
+			};
+			buildConfigurationList = FEC0812E2DAEE5CB00D92163 /* Build configuration list for PBXProject "AtSightWatchh" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FEC0812A2DAEE5CB00D92163;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = FEC081322DAEE5CB00D92163 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FEC081302DAEE5CB00D92163 /* AtSightWatchh */,
+				FEC081362DAEE5CB00D92163 /* AtSightWatchh Watch App */,
+				FEC081452DAEE5CD00D92163 /* AtSightWatchh Watch AppTests */,
+				FEC0814F2DAEE5CD00D92163 /* AtSightWatchh Watch AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FEC0812F2DAEE5CB00D92163 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEC081352DAEE5CB00D92163 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEC081442DAEE5CD00D92163 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEC0814E2DAEE5CD00D92163 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FEC081332DAEE5CB00D92163 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEC081422DAEE5CD00D92163 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEC0814C2DAEE5CD00D92163 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FEC0813A2DAEE5CB00D92163 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FEC081362DAEE5CB00D92163 /* AtSightWatchh Watch App */;
+			targetProxy = FEC081392DAEE5CB00D92163 /* PBXContainerItemProxy */;
+		};
+		FEC081482DAEE5CD00D92163 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FEC081362DAEE5CB00D92163 /* AtSightWatchh Watch App */;
+			targetProxy = FEC081472DAEE5CD00D92163 /* PBXContainerItemProxy */;
+		};
+		FEC081522DAEE5CD00D92163 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FEC081362DAEE5CB00D92163 /* AtSightWatchh Watch App */;
+			targetProxy = FEC081512DAEE5CD00D92163 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		FEC081582DAEE5CD00D92163 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FEC081592DAEE5CD00D92163 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		FEC0815B2DAEE5CD00D92163 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = AtSightWatchh;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKWatchOnly = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gp1.AtSightWatchh.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 11.4;
+			};
+			name = Debug;
+		};
+		FEC0815C2DAEE5CD00D92163 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = AtSightWatchh;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKWatchOnly = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gp1.AtSightWatchh.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.4;
+			};
+			name = Release;
+		};
+		FEC0815F2DAEE5CD00D92163 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				INFOPLIST_KEY_CFBundleDisplayName = AtSightWatchh;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gp1.AtSightWatchh;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		FEC081602DAEE5CD00D92163 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				INFOPLIST_KEY_CFBundleDisplayName = AtSightWatchh;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gp1.AtSightWatchh;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FEC081622DAEE5CD00D92163 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.gp1.AtSightWatchh-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AtSightWatchh Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AtSightWatchh Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 11.4;
+			};
+			name = Debug;
+		};
+		FEC081632DAEE5CD00D92163 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.gp1.AtSightWatchh-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AtSightWatchh Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AtSightWatchh Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.4;
+			};
+			name = Release;
+		};
+		FEC081652DAEE5CD00D92163 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.gp1.AtSightWatchh-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "AtSightWatchh Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 11.4;
+			};
+			name = Debug;
+		};
+		FEC081662DAEE5CD00D92163 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.gp1.AtSightWatchh-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "AtSightWatchh Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.4;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FEC0812E2DAEE5CB00D92163 /* Build configuration list for PBXProject "AtSightWatchh" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEC081582DAEE5CD00D92163 /* Debug */,
+				FEC081592DAEE5CD00D92163 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FEC0815A2DAEE5CD00D92163 /* Build configuration list for PBXNativeTarget "AtSightWatchh Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEC0815B2DAEE5CD00D92163 /* Debug */,
+				FEC0815C2DAEE5CD00D92163 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FEC0815E2DAEE5CD00D92163 /* Build configuration list for PBXNativeTarget "AtSightWatchh" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEC0815F2DAEE5CD00D92163 /* Debug */,
+				FEC081602DAEE5CD00D92163 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FEC081612DAEE5CD00D92163 /* Build configuration list for PBXNativeTarget "AtSightWatchh Watch AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEC081622DAEE5CD00D92163 /* Debug */,
+				FEC081632DAEE5CD00D92163 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FEC081642DAEE5CD00D92163 /* Build configuration list for PBXNativeTarget "AtSightWatchh Watch AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEC081652DAEE5CD00D92163 /* Debug */,
+				FEC081662DAEE5CD00D92163 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FEC0812B2DAEE5CB00D92163 /* Project object */;
+}
